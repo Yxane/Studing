@@ -2,9 +2,6 @@ import requests
 from .models import TeleSettings
 
 
-# token = '5535658369:AAHlbSd_0ZSSG7sHntEqxrDhfDKQK0CVHvQ'
-# chat_id = '-667023499'
-# text = 'qwe'
 
 
 def send_telegram(tg_name, tg_phone):
